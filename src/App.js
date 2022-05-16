@@ -6,7 +6,7 @@ function App() {
       {/* <p>My App</p> */}
       <div className="App">
         <header className="App-header">
-          <p>Welcome to my bare application!!!</p>
+          <p>Welcome to my bare application!!! Testing to Netlify</p>
         </header>
       </div>
     </>
